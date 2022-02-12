@@ -6,4 +6,4 @@ The data basically contains annual/ monthly/ hourly salaries of Professionals wo
  * Add some analysis on location based impacts. 
  * Formatting the data and labels for charts.
  * More detailed descriptions of analysis for cells.
- */
+
